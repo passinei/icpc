@@ -7,3 +7,4 @@
 * [Jagged Skyline](./problems/jagged-skyline.cpp) \[[statement](https://codeforces.com/gym/104020/problem/J)\]: binary search, interactive, random, shuffle
 * [Kirill and Company](./problems/kirill-and-company.cpp) \[[statement](https://codeforces.com/contest/1741/problem/G)\]: bfs, bitmask, bitset, compression, dp, knapsack, next_permutation
 * [Sereja and Squares](./problems/sereja-and-squares.cpp) \[[statement](https://codeforces.com/contest/425/problem/D)\]: hash, sqrt
+* [Username](./problems/username.cpp) \[[statement](https://codeforces.com/gym/104518/problem/I)\]: binary search, fast exponentiation, hash, modular inverse, string, two pointers
