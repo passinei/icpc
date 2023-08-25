@@ -15,6 +15,10 @@
 
 * [Flight Discount](./cses/flight-discount.cpp) \[[statement](https://cses.fi/problemset/task/1195/)\]: dijkstra, shortest paths
 
+### Tree Algorithms
+
+* [Path Queries II](./cses/path-queries-2.cpp) \[[statement](https://cses.fi/problemset/task/2134/)\]: binary lifting, hld, lca, segtree
+
 ### Geometry
 
-* [Minimum Euclidean Distance](./cses/minimum-euclidean-distance.cpp) \[[statement](https://cses.fi/problemset/task/1195/)\]: binary search, closest pair problem, comparators, two pointers
+* [Minimum Euclidean Distance](./cses/minimum-euclidean-distance.cpp) \[[statement](https://cses.fi/problemset/task/2194/)\]: binary search, closest pair problem, comparators, two pointers
