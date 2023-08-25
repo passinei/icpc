@@ -14,3 +14,7 @@
 ### Graph Algorithms
 
 * [Flight Discount](./cses/flight-discount.cpp) \[[statement](https://cses.fi/problemset/task/1195/)\]: dijkstra, shortest paths
+
+### Geometry
+
+* [Minimum Euclidean Distance](./cses/minimum-euclidean-distance.cpp) \[[statement](https://cses.fi/problemset/task/1195/)\]: binary search, closest pair problem, comparators, two pointers
