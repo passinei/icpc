@@ -11,6 +11,10 @@
 
 ## CSES
 
+### Sorting and Searching
+
+* [Josephus Problem II](./cses/sorting-and-searching/josephus-problem-2.cpp) \[[statement](https://cses.fi/problemset/task/2163)\]: indexed set, pbds
+
 ### Graph Algorithms
 
 * [Flight Discount](./cses/graph-algorithms/flight-discount.cpp) \[[statement](https://cses.fi/problemset/task/1195/)\]: dijkstra, shortest paths
