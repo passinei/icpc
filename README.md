@@ -26,3 +26,4 @@
 ### Geometry
 
 * [Minimum Euclidean Distance](./cses/geometry/minimum-euclidean-distance.cpp) \[[statement](https://cses.fi/problemset/task/2194/)\]: binary search, closest pair problem, comparators, two pointers
+* [Convex Hull](./cses/geometry/convex-hull.cpp) \[[statement](https://cses.fi/problemset/task/2195)\]: convex hull
