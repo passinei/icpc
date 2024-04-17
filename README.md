@@ -24,6 +24,10 @@
 
 * [Path Queries II](./cses/tree-algorithms/path-queries-2.cpp) \[[statement](https://cses.fi/problemset/task/2134/)\]: binary lifting, hld, lca, segtree
 
+### String Algorithms
+
+* [Counting Patterns](./cses/string-algorithms/counting-patterns.cpp) \[[statement](https://cses.fi/problemset/task/2103)\]: binary search, suffix array
+
 ### Geometry
 
 * [Minimum Euclidean Distance](./cses/geometry/minimum-euclidean-distance.cpp) \[[statement](https://cses.fi/problemset/task/2194/)\]: binary search, closest pair problem, comparators, two pointers
