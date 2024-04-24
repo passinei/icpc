@@ -35,4 +35,5 @@
 
 ### Advanced Techniques
 
+* [Beautiful Subgrids](./cses/advanced-techniques/beautiful-subgrids.cpp) \[[statement](https://cses.fi/problemset/task/2137/)\]: bitset, popcnt, pragma
 * [Necessary Roads](./cses/advanced-techniques/necessary-roads.cpp) \[[statement](https://cses.fi/problemset/task/2076/)\]: bridges, dfs
