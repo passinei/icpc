@@ -2,6 +2,7 @@
 
 ## Problems
 
+* [Graph Aero](./problems/graph-aero.cpp) \[[statement](https://codeforces.com/gym/100551/problem/B)\]: bridges, dsu, dynamic connectivity, freopen
 * [In Search of Truth (Easy Version)](./problems/in-search-of-truth-easy.cpp) \[[statement](https://codeforces.com/contest/1840/problem/G1)\]: bsgs, interactive, sqrt
 * [In Search of Truth (Hard Version)](./problems/in-search-of-truth-hard.cpp) \[[statement](https://codeforces.com/contest/1840/problem/G2)\]: bsgs, interactive, probabilities, random, sqrt
 * [Intergalactic Conference](./problems/intergalactic-conference.cpp) \[[statement](https://codeforces.com/gym/105201/problem/I)\]: fft mod
